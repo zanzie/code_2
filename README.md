@@ -13,7 +13,7 @@ Hello I'm Zanzie  I was born in Chicago and grew up in Madison Wi  Im a triplet.
 <html>
 <body>
 
-<h2>Spectacular Mountain</h2>
+
 
 <img src="zanz.png">
 
