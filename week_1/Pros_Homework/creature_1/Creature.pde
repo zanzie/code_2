@@ -76,8 +76,8 @@ class Creature{
   if(mousePressed){
    fur = color(r,g,b,a);
     r = random(0,255);
- g = random(240,255);
- b = random(240,255);
+ g = random(0,255);
+ b = random(0,255);
  a = random(255);
  
  
